@@ -81,7 +81,6 @@
 <p align="left">
   <a href="https://github.com/phuchip"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.facebook.com/phuchip99/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="http://zaloapp.com/qr/p/qaxywl0j9oyy"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge" /></a>
   <a href="mailto:buiphuc044@gmail.com"><img src="https://img.shields.io/badge/Email-6a1b9a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
