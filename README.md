@@ -42,8 +42,8 @@
 ### **🟦 Website truyện chữ**
 - SEO mạnh, tốc độ cao, crawler
 
-### **🟦 Website mẹ & bé**
-- SEO mạnh, tốc độ cao
+### 🟦 Website mẹ & bé
+- Chuyên trang nội dung mẹ & bé, SEO tốt, tối ưu tốc độ & trải nghiệm người dùng
 
 ---
 
@@ -74,19 +74,6 @@
   <img src="https://img.shields.io/badge/Linux-Admin-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Backend-Main%20Stack-red?style=flat-square" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=phuchip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuchip&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchip&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
