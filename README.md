@@ -12,7 +12,7 @@
 - 🇻🇳 Developer đến từ Việt Nam  
 - 💻 **PHP Developer (4+ năm kinh nghiệm)**  
 - 🔧 Thành thạo: PHP (Yii2), MySQL, Redis, REST API  
-- 🌐 Có kinh nghiệm với **JavaScript, NodeJS, Python, Java** (xử lý PDF, DOCX, trích xuất ảnh, che contact)  
+- 🌐 Có kinh nghiệm với **JavaScript, NodeJS, Python, Java**
 - 🏗 Từng làm hệ thống **large-scale**, nhiều user truy cập, high-performance  
 - ⚙ DevOps: Ubuntu, PM2, Nginx/Apache, Redis Queue, SSL, Cloudflare  
 - 🤝 Từng làm việc trực tiếp với khách hàng, gathering requirements, tư vấn giải pháp  
